@@ -6,5 +6,5 @@ Bem-vindo ao meu portfólio! Aqui você encontrará alguns dos projetos que dese
 
 - **HTML**
 - **CSS**
-- **JavaScript** (em alguns projetos)
+- **JavaScript** 
 - **Figma** (para design)
