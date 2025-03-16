@@ -4,14 +4,12 @@
     const body = document.body;
 
     moonImg.addEventListener('click', () => {
-        // Toggle between moon and sun images
         if (moonImg.src.includes('lua')) {
-            moonImg.src = '/assets/sol.png'; // Path to your sun image
+            moonImg.src = '/assets/sol.png'; 
         } else {
-            moonImg.src = '/assets/lua.png'; // Path to your moon image
+            moonImg.src = '/assets/lua.png'; 
         }
 
-        // Toggle between light and dark mode
         body.classList.toggle('dark-mode');
     });
 
